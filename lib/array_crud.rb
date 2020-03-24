@@ -37,6 +37,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  favorite_bands = ["Nirvana", "Pvris", "MeWithoutYou", "Blindside"]
+  favorite_bands = ["Nirvana", "Pvris", "MeWithoutYou", "Blindside", "arrays!"]
   favorite_bands.last
 end
