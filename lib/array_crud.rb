@@ -1,5 +1,5 @@
 def create_an_empty_array
-  FAILED = []
+  []
 end
 
 def create_an_array
@@ -18,12 +18,12 @@ end
 
 def remove_element_from_end_of_array(array)
   favorite_bands = ["Nirvana", "Pvris", "MeWithoutYou", "Blindside"]
-  Blindside = favorite_bands.pop
+  favorite_bands.pop
 end
 
 def remove_element_from_start_of_array(array)
   favorite_bands = ["Nirvana", "Pvris", "MeWithoutYou", "Blindside"]
-  Nirvana = favorite_bands.shift
+  favorite_bands.shift
 end
 
 def retrieve_element_from_index(array, index_number)
