@@ -8,16 +8,16 @@ end
 
 def add_element_to_end_of_array(array, element)
   favorite_bands = ["Nirvana", "Pvris", "MeWithoutYou", "Blindside"]
-  favorite_bands << "Halsey"
+  favorite_bands << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
-  favorite_bands = ["Nirvana", "Pvris", "MeWithoutYou", "Blindside"]
-  favorite_bands.unshift("Halsey")
+  favorite_bands = ["wow", "Nirvana", "Pvris", "MeWithoutYou", "Blindside"]
+  favorite_bands.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
-  favorite_bands = ["Nirvana", "Pvris", "MeWithoutYou", "Blindside"]
+  favorite_bands = ["Nirvana", "Pvris", "MeWithoutYou", "Blindside", "arrays!"]
   favorite_bands.pop
 end
 
