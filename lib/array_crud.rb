@@ -27,7 +27,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  favorite_bands = ["Nirvana", "Pvris", "MeWithoutYou", "Blindside"]
+  favorite_bands = ["Nirvana", "Pvris", "am", "Blindside"]
   favorite_bands[2]
 end
 
