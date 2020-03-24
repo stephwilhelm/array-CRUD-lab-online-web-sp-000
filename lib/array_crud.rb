@@ -32,7 +32,7 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  favorite_bands = ["Nirvana", "Pvris", "MeWithoutYou", "Blindside"]
+  favorite_bands = ["wow", "Nirvana", "Pvris", "MeWithoutYou", "Blindside"]
   favorite_bands.first
 end
 
