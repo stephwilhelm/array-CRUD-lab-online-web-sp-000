@@ -38,5 +38,5 @@ end
 
 def retrieve_last_element_from_array(array)
   favorite_bands = ["Nirvana", "Pvris", "MeWithoutYou", "Blindside"]
-  favorite_bands.last  
+  favorite_bands.last
 end
